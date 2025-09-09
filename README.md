@@ -4,9 +4,8 @@ Este projeto é uma solução para o desafio "[Product preview card component](h
 
 O resultado é um componente de produto limpo, reutilizável e fiel ao design proposto, refletindo as melhores práticas de desenvolvimento front-end com React.
 
-### ✨ **[Ver Demonstração Ao Vivo 🚀](https://www.google.com/search?q=https://SEU_LINK_DE_DEPLOY_AQUI.com)**
-
-*(**IMPORTANTE:** Faça o deploy do seu projeto em plataformas como Vercel, Netlify ou GitHub Pages e cole o link aqui\! Recrutadores raramente clonam projetos, então um link ao vivo é essencial.)*
+### ✨ **Ver Demonstração Ao Vivo 🚀
+https://product-preview-card-umber-kappa.vercel.app/
 
 -----
 
