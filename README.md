@@ -4,14 +4,14 @@ Este projeto é uma solução para o desafio "[Product preview card component](h
 
 O resultado é um componente de produto limpo, reutilizável e fiel ao design proposto, refletindo as melhores práticas de desenvolvimento front-end com React.
 
-### ✨ **Ver Demonstração Ao Vivo 🚀
+### ✨ **Para Ver Demonstração Ao Vivo 🚀 clique no link abaixo ou cole no seu navegador
 https://product-preview-card-umber-kappa.vercel.app/
 
 -----
 
 ### Screenshot do Projeto
 
-*(**DICA:** Grave um GIF rápido mostrando a transição do layout mobile para o desktop. Isso impressiona muito mais que uma imagem estática. Você pode usar ferramentas como o ScreenToGif.)*
+![Image](https://github.com/user-attachments/assets/8cff16c4-0cc0-4c6d-ab05-9997a70133ad)
 
 -----
 
@@ -96,7 +96,6 @@ Após executar os comandos, abra [http://localhost:5173](https://www.google.com/
 
 **Camila Rocha**
 
-  * **LinkedIn:** [https://www.linkedin.com/in/seu-usuario/](https://www.google.com/search?q=https://www.linkedin.com/in/seu-usuario/)
-  * **Email:** seu.email@exemplo.com
+  * **LinkedIn:** www.linkedin.com/in/camilarochatec
 
 Obrigado pela visita! 👋
