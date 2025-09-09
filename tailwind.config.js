@@ -1,12 +1,12 @@
+// Arquivo: tailwind.config.js
+
 /** @type {import('tailwindcss').Config} */
 export default {
-  // CONFIGURAÇÕES DO TAILWIND
   content: [
-    "./index.html",
+    "./index.html", 
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   
-  // FONTES CUSTOMIZADAS
   theme: {
     extend: {
       fontFamily: {
